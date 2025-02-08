@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuerzaBruta - Monohilo", "FuerzaBruta - Monohilo\FuerzaBruta - Monohilo.csproj", "{A8F00847-CC0C-4F3F-96C6-E6F11D1E27C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuerzaBruta - Multihilo", "FuerzaBruta - Multihilo\FuerzaBruta - Multihilo.csproj", "{F8393820-9B72-45DF-9AE8-0BDB42743439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuerzaBruta - Optimus", "FuerzaBruta - Optimus\FuerzaBruta - Optimus.csproj", "{F9C18BDF-51B0-40A3-88AF-FA3B0649C5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F00847-CC0C-4F3F-96C6-E6F11D1E27C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F00847-CC0C-4F3F-96C6-E6F11D1E27C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F00847-CC0C-4F3F-96C6-E6F11D1E27C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F00847-CC0C-4F3F-96C6-E6F11D1E27C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8393820-9B72-45DF-9AE8-0BDB42743439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8393820-9B72-45DF-9AE8-0BDB42743439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8393820-9B72-45DF-9AE8-0BDB42743439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8393820-9B72-45DF-9AE8-0BDB42743439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9C18BDF-51B0-40A3-88AF-FA3B0649C5F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9C18BDF-51B0-40A3-88AF-FA3B0649C5F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9C18BDF-51B0-40A3-88AF-FA3B0649C5F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9C18BDF-51B0-40A3-88AF-FA3B0649C5F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
