@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuerzaBruta - Optimus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c131c814430631dc997dc00462d42a96e7a3b1ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0b7783bfcbcc3c522880027391b0ef8d78aa1c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuerzaBruta - Optimus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuerzaBruta - Optimus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

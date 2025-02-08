@@ -10,18 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c11d7ef9-7ec4-4c39-b658-0a91b3f7feda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FuerzaBruta - Monohilo/passwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FuerzaBruta - Multihilo/passwords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FuerzaBruta - Optimus/passwords.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FuerzaBruta1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FuerzaBruta1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Monohilo/FuerzaBruta - Monohilo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Monohilo/FuerzaBruta - Monohilo.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Monohilo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Monohilo/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Monohilo/obj/Debug/net8.0/FuerzaBruta - Monohilo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Monohilo/obj/Debug/net8.0/FuerzaBruta - Monohilo.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Monohilo/obj/Debug/net8.0/FuerzaBruta - Monohilo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Monohilo/obj/Debug/net8.0/FuerzaBruta - Monohilo.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Multihilo/FuerzaBruta - Multihilo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Multihilo/FuerzaBruta - Multihilo.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Multihilo/obj/Debug/net8.0/FuerzaBruta - Multihilo.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Multihilo/obj/Debug/net8.0/FuerzaBruta - Multihilo.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Multihilo/obj/Debug/net8.0/FuerzaBruta - Multihilo.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Multihilo/obj/Debug/net8.0/FuerzaBruta - Multihilo.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Optimus/FuerzaBruta - Optimus.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Optimus/FuerzaBruta - Optimus.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuerzaBruta - Multihilo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FuerzaBruta - Multihilo/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738975373377</updated>
-      <workItem from="1738975374471" duration="7771000" />
+      <workItem from="1738975374471" duration="8670000" />
     </task>
     <servers />
   </component>
