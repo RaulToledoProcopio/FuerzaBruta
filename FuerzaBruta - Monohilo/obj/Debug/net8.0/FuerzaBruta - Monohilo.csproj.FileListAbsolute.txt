@@ -1,0 +1,16 @@
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\bin\Debug\net8.0\FuerzaBruta - Monohilo.exe
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\bin\Debug\net8.0\FuerzaBruta - Monohilo.deps.json
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\bin\Debug\net8.0\FuerzaBruta - Monohilo.runtimeconfig.json
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\bin\Debug\net8.0\FuerzaBruta - Monohilo.dll
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\bin\Debug\net8.0\FuerzaBruta - Monohilo.pdb
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\FuerzaBruta - Monohilo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\FuerzaBruta - Monohilo.AssemblyInfoInputs.cache
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\FuerzaBruta - Monohilo.AssemblyInfo.cs
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\FuerzaBruta - Monohilo.csproj.CoreCompileInputs.cache
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\FuerzaBruta - Monohilo.sourcelink.json
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\FuerzaBruta - Monohilo.dll
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\refint\FuerzaBruta - Monohilo.dll
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\FuerzaBruta - Monohilo.pdb
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\FuerzaBruta - Monohilo.genruntimeconfig.cache
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\obj\Debug\net8.0\ref\FuerzaBruta - Monohilo.dll
+C:\Users\Raúl\RiderProjects\FuerzaBruta\FuerzaBruta - Monohilo\bin\Debug\net8.0\passwords.txt

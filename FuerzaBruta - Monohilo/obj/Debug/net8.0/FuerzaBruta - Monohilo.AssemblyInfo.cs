@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuerzaBruta - Monohilo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c131c814430631dc997dc00462d42a96e7a3b1ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a1f94c1d6cb9378d1ce195be72a860157047396")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuerzaBruta - Monohilo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuerzaBruta - Monohilo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

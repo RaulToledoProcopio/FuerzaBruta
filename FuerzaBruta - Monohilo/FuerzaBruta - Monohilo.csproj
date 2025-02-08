@@ -8,4 +8,10 @@
         <RootNamespace>FuerzaBruta1</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Update="passwords.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </None>
+    </ItemGroup>
+
 </Project>
